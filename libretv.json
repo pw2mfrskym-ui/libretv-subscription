@@ -1,0 +1,21 @@
+{
+  "sites": [
+    { "key": "baidu",   "name": "百度云资源", "type": 0, "api": "https://api.apibdzy.com/api.php/provide/vod" },
+    { "key": "bfzy",    "name": "暴风资源",   "type": 0, "api": "https://bfzyapi.com/api.php/provide/vod" },
+    { "key": "dyttzy",  "name": "电影天堂",   "type": 0, "api": "http://caiji.dyttzyapi.com/api.php/provide/vod" },
+    { "key": "ffzy",    "name": "非凡影视",   "type": 0, "api": "http://api.ffzyapi.com/api.php/provide/vod" },
+    { "key": "guangsu", "name": "光速资源",   "type": 0, "api": "https://api.guangsuapi.com/api.php/provide/vod" },
+    { "key": "hhzy",    "name": "豪华资源",   "type": 0, "api": "https://hhzyapi.com/api.php/provide/vod" },
+    { "key": "iqiyi",   "name": "iqiyi资源",  "type": 0, "api": "https://www.iqiyizyapi.com/api.php/provide/vod" },
+    { "key": "jinying", "name": "金鹰资源",   "type": 0, "api": "https://jyzyapi.com/api.php/provide/vod" },
+    { "key": "jisu",    "name": "极速资源",   "type": 0, "api": "https://jszyapi.com/api.php/provide/vod" },
+    { "key": "lziapi",  "name": "量子资源",   "type": 0, "api": "https://cj.lziapi.com/api.php/provide/vod" },
+    { "key": "mdzy",    "name": "魔都资源",   "type": 0, "api": "https://www.mdzyapi.com/api.php/provide/vod" },
+    { "key": "piaoling","name": "飘零资源",   "type": 0, "api": "https://p2100.net/api.php/provide/vod/at/json" },
+    { "key": "subo",    "name": "速博资源",   "type": 0, "api": "https://subocaiji.com/api.php/provide/vod/at/json" },
+    { "key": "uku",     "name": "U酷资源",    "type": 0, "api": "https://api.ukuapi88.com/api.php/provide/vod" },
+    { "key": "yinghua", "name": "樱花资源",   "type": 0, "api": "https://yhzy.cc/api.php/provide/vod" },
+    { "key": "zuid",    "name": "最大资源",   "type": 0, "api": "https://api.zuidapi.com/api.php/provide/vod" },
+    { "key": "zy360",   "name": "360资源",    "type": 0, "api": "https://360zy.com/api.php/provide/vod" }
+  ]
+}
