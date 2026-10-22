@@ -1,0 +1,9 @@
+{
+  "name": "LibreTV国内直播源(增强)",
+  "liveSources": [
+    { "name": "国内央视卫视IPv6(fanmingming)", "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u", "epg": "https://epg.pw/xmltv.xml.gz" },
+    { "name": "国内+国际直连(fanmingming)",      "url": "https://live.fanmingming.com/tv/m3u/global.m3u", "epg": "https://epg.pw/xmltv.xml.gz" },
+    { "name": "中国IPTV(iptv-org)",             "url": "https://iptv-org.github.io/iptv/countries/cn.m3u", "epg": "https://epg.pw/xmltv.xml.gz" },
+    { "name": "全球IPTV(iptv-org)",             "url": "https://iptv-org.github.io/iptv/index.m3u", "epg": "https://epg.pw/xmltv.xml.gz" }
+  ]
+}
