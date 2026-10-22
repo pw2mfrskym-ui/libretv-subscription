@@ -1,0 +1,28 @@
+{
+  "name": "LibreTV聚合订阅(点播+直播)",
+  "sources": [
+    { "name": "百度云资源", "url": "https://api.apibdzy.com/api.php/provide/vod" },
+    { "name": "暴风资源",   "url": "https://bfzyapi.com/api.php/provide/vod" },
+    { "name": "电影天堂",   "url": "http://caiji.dyttzyapi.com/api.php/provide/vod", "detail": "http://caiji.dyttzyapi.com" },
+    { "name": "非凡影视",   "url": "http://api.ffzyapi.com/api.php/provide/vod", "detail": "http://ffzy5.tv" },
+    { "name": "光速资源",   "url": "https://api.guangsuapi.com/api.php/provide/vod" },
+    { "name": "豪华资源",   "url": "https://hhzyapi.com/api.php/provide/vod" },
+    { "name": "iqiyi资源",  "url": "https://www.iqiyizyapi.com/api.php/provide/vod" },
+    { "name": "金鹰资源",   "url": "https://jyzyapi.com/api.php/provide/vod" },
+    { "name": "极速资源",   "url": "https://jszyapi.com/api.php/provide/vod" },
+    { "name": "量子资源",   "url": "https://cj.lziapi.com/api.php/provide/vod" },
+    { "name": "魔都资源",   "url": "https://www.mdzyapi.com/api.php/provide/vod" },
+    { "name": "飘零资源",   "url": "https://p2100.net/api.php/provide/vod/at/json" },
+    { "name": "速博资源",   "url": "https://subocaiji.com/api.php/provide/vod/at/json" },
+    { "name": "U酷资源",    "url": "https://api.ukuapi88.com/api.php/provide/vod" },
+    { "name": "樱花资源",   "url": "https://yhzy.cc/api.php/provide/vod" },
+    { "name": "最大资源",   "url": "https://api.zuidapi.com/api.php/provide/vod" },
+    { "name": "360资源",    "url": "https://360zy.com/api.php/provide/vod" }
+  ],
+  "liveSources": [
+    { "name": "全球IPTV(iptv-org)",       "url": "https://iptv-org.github.io/iptv/index.m3u" },
+    { "name": "中国IPTV(iptv-org)",       "url": "https://iptv-org.github.io/iptv/countries/cn.m3u" },
+    { "name": "国内直连直播(fanmingming)", "url": "https://live.fanmingming.com/tv/m3u/global.m3u" },
+    { "name": "国内IPV6直播(fanmingming)", "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u" }
+  ]
+}
